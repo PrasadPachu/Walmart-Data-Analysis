@@ -1,0 +1,9 @@
+1- Share the trend of state wise profit
+2- Show the Distribution of average profit by staes. Analyze which state is generating more Average
+3- Profit and which is going in loss.
+4- In which age range, company is getting Maximum Profit
+5- Show the average sale
+6- Show the average Profit
+7- Show the average Discount
+8- show the Branding.
+9- Preapre a dash Bord
